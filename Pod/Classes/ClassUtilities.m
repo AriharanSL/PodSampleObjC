@@ -13,13 +13,8 @@
 
 +(void)ShowAlert:(NSString*)message
 {
-    UIAlertController *alertController = [UIAlertController alertControllerWithTitle:@"Boots" message:message preferredStyle:UIAlertControllerStyleAlert];
-    
-    UIAlertAction* ok = [UIAlertAction actionWithTitle:@"OK" style:UIAlertActionStyleDefault handler:nil];
-    [alertController addAction:ok];
-    
-    [self presentViewController:alertController animated:YES completion:nil];
-
+    UIAlertView *alertView = [[UIAlertView alloc]initWithTitle:@"WalGreens" message:message delegate:nil cancelButtonTitle:nil otherButtonTitles:@"OK", nil];
+    [alertView show];
 }
 
 @end
