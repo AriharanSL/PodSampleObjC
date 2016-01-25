@@ -10,4 +10,6 @@
 
 @interface ClassUtilities : NSObject
 
++(void)ShowAlert:(NSString*)message;
+
 @end

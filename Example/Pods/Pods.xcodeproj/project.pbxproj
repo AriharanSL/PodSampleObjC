@@ -14,7 +14,6 @@
 		96B088331C5620560018B029 /* ClassUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = 96B088311C5620560018B029 /* ClassUtilities.h */; settings = {ASSET_TAGS = (); }; };
 		96B088341C5620560018B029 /* ClassUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 96B088321C5620560018B029 /* ClassUtilities.m */; settings = {ASSET_TAGS = (); }; };
 		B74B51D8DBFB8572FC92D7C8C0C865D0 /* PodSampleObjC-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C12419D6411EE5570B655D52B6FE1F7 /* PodSampleObjC-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B85120BCDE20A4BB021FE3391F4BE331 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 0520201B5D9E0B92C7F19B984D04579B /* ReplaceMe.m */; };
 		CAA9AB393ADAEC08A09EAFEAB7F38CF8 /* PodSampleObjC-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DD0B086BF789E8F527067F639373A31E /* PodSampleObjC-dummy.m */; };
 		F2D7BCB6D63B039AE4DB80DA2FC87364 /* Pods-PodSampleObjC_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8974A6EA64B76799DCE8AAE555DBF900 /* Pods-PodSampleObjC_Tests-dummy.m */; };
 /* End PBXBuildFile section */
@@ -37,7 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0520201B5D9E0B92C7F19B984D04579B /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		13A240D6E4B7D7D6FE5E194EC9084F9C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1579AE7E7ECDBA8744750A947F3E37B5 /* PodSampleObjC.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = PodSampleObjC.xcconfig; sourceTree = "<group>"; };
 		18C1708415E8B0C6A62701BF59DF2D35 /* PodSampleObjC.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PodSampleObjC.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -198,7 +196,6 @@
 			children = (
 				96B088311C5620560018B029 /* ClassUtilities.h */,
 				96B088321C5620560018B029 /* ClassUtilities.m */,
-				0520201B5D9E0B92C7F19B984D04579B /* ReplaceMe.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -332,7 +329,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CAA9AB393ADAEC08A09EAFEAB7F38CF8 /* PodSampleObjC-dummy.m in Sources */,
-				B85120BCDE20A4BB021FE3391F4BE331 /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
