@@ -8,14 +8,15 @@
 
 Pod::Spec.new do |s|
   s.name             = "PodSampleObjC"
-  s.version          = "0.1.0"
-  s.summary          = "PodSampleObjC."
+  s.version          = "0.1.1"
+  s.summary          = "Sample Project"
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!  
+#   * Finally, don't worry about the indent, CocoaPods strips it
+#
 
   s.homepage         = "https://github.com/AriharanSL/PodSampleObjC"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"

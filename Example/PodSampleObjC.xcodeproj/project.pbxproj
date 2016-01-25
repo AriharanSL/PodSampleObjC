@@ -17,7 +17,7 @@
 
 /* Begin PBXFileReference section */
 		137F9419CBDEDBA70298DE9F /* Pods_PodSampleObjC_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PodSampleObjC_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		156CAB8F5E184734A758A075 /* PodSampleObjC.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PodSampleObjC.podspec; path = ../PodSampleObjC.podspec; sourceTree = "<group>"; };
+		156CAB8F5E184734A758A075 /* PodSampleObjC.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PodSampleObjC.podspec; path = ../PodSampleObjC.podspec; sourceTree = "<group>"; wrapsLines = 0; };
 		4188FAD01E61BD6AD63FB8F9 /* Pods-PodSampleObjC_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PodSampleObjC_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PodSampleObjC_Tests/Pods-PodSampleObjC_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
