@@ -1,0 +1,6 @@
+framework module PodSampleObjC {
+  umbrella header "PodSampleObjC-umbrella.h"
+
+  export *
+  module * { export * }
+}

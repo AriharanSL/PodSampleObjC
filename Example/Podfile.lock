@@ -1,0 +1,14 @@
+PODS:
+  - PodSampleObjC (0.1.0)
+
+DEPENDENCIES:
+  - PodSampleObjC (from `../`)
+
+EXTERNAL SOURCES:
+  PodSampleObjC:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PodSampleObjC: eec0cf6ec7753292bf8a84efe24d92bfd120c984
+
+COCOAPODS: 0.39.0
